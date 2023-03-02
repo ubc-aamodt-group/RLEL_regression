@@ -31,7 +31,6 @@ cd ../
 If you find this project useful in your research, please cite:
 
 ```
-```
 @inproceedings{ShahICLR2023,
   author    = {Shah, Deval and Aamodt, Tor M. },
   booktitle = {International Conference on Learning Representations},
@@ -40,5 +39,4 @@ If you find this project useful in your research, please cite:
   month     = {May},
   year      = {2023},
 }
-```
 ```
